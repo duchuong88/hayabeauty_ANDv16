@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "833304695151",
+    "firebase_url": "https://haya-beauty-default-rtdb.firebaseio.com",
+    "project_id": "haya-beauty",
+    "storage_bucket": "haya-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833304695151:android:fb82ec04bbc7fb5652189a",
+        "android_client_info": {
+          "package_name": "vn.hayaezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvhT7jJQPKEOJzYeW108ZBrYA2rGjUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
